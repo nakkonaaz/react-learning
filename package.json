@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is my package",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakkonaaz/react-learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nazneen Parveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakkonaaz/react-learning/issues"
+  },
+  "homepage": "https://github.com/nakkonaaz/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
